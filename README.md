@@ -13,15 +13,19 @@ Generative AI is a form of artificial intelligence that creates new content, suc
 
 # 2. Key Principles of Generative AI
 
-# Learning from Data: Recognizes and reproduces patterns from large datasets.
+1]Learning from Data:
+           Recognizes and reproduces patterns from large datasets.
+2] Neural Networks: 
+          Uses architectures like CNNs, RNNs, and Transformers to generate content.
 
-# Neural Networks: Uses architectures like CNNs, RNNs, and Transformers to generate content.
+3]Latent Space Representation: 
+          Encodes data into a compressed form and reconstructs variations from it.
 
-# Latent Space Representation: Encodes data into a compressed form and reconstructs variations from it.
+4]Self-Supervised Learning: 
+          Learns from unlabeled data, making training more efficient.
 
-# Self-Supervised Learning: Learns from unlabeled data, making training more efficient.
-
-# Probability-Based Generation: Predicts likely sequences (e.g., words in text, pixels in images).
+5]Probability-Based Generation: 
+          Predicts likely sequences (e.g., words in text, pixels in images).
 
 # 3. Generative AI Architectures
 
