@@ -29,17 +29,17 @@ Generative AI relies on deep learning architectures to efficiently create new co
 
 a) Variational Autoencoders (VAEs)
 
-Learn to encode and reconstruct data.
+ i] Learn to encode and reconstruct data.
 
-Used in image enhancement and speech synthesis.
+ ii] Used in image enhancement and speech synthesis.
 
 b) Generative Adversarial Networks (GANs)
 
 Consist of two networks:
 
-Generator – Creates synthetic data.
+ i] Generator – Creates synthetic data.
 
-Discriminator – Distinguishes between real and fake data.
+ ii] Discriminator – Distinguishes between real and fake data.
 
 Applied in deepfakes, AI-generated art, and image enhancement.
 
@@ -49,13 +49,13 @@ Use self-attention mechanisms to process sequential data efficiently.
 
 Key transformer-based models:
 
-GPT (Generative Pre-trained Transformer) – Generates human-like text.
+ i] GPT (Generative Pre-trained Transformer) – Generates human-like text.
 
-BERT (Bidirectional Encoder Representations from Transformers) – Enhances context understanding for NLP tasks.
+ii] BERT (Bidirectional Encoder Representations from Transformers) – Enhances context understanding for NLP tasks.
 
-T5 (Text-to-Text Transfer Transformer) – Converts any NLP task into a text-generation problem.
+iii] T5 (Text-to-Text Transfer Transformer) – Converts any NLP task into a text-generation problem.
 
-Used in chatbots, text summarization, and translation.
+ iv] Used in chatbots, text summarization, and translation.
 
 d) Diffusion Models
 
