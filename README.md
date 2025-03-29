@@ -69,70 +69,70 @@ Generative AI is revolutionizing multiple industries by enhancing automation and
 
 a) Natural Language Processing (NLP)
 
-Chatbots & Virtual Assistants: ChatGPT, Bard.
+ i] Chatbots & Virtual Assistants: ChatGPT, Bard.
 
-Text Summarization & Translation: BERT, T5.
+ ii] Text Summarization & Translation: BERT, T5.
 
-Code Generation: GitHub Copilot, AlphaCode.
+iii] Code Generation: GitHub Copilot, AlphaCode.
 
 b) Creative Content Generation
 
-AI-Generated Art: DALL·E, MidJourney.
+ i] AI-Generated Art: DALL·E, MidJourney.
 
-Music Composition: AIVA, MuseNet.
+ ii] Music Composition: AIVA, MuseNet.
 
-Video Creation: Runway ML, Synthesia.
+ iii] Video Creation: Runway ML, Synthesia.
 
 c) Healthcare & Biotech
 
-AI-Generated Medical Images: Enhancing MRI and CT scans.
+ i] AI-Generated Medical Images: Enhancing MRI and CT scans.
 
-Drug Discovery: AlphaFold predicting protein structures.
+ ii] Drug Discovery: AlphaFold predicting protein structures.
 
 d) Business & Finance
 
-Automated Report Generation: AI-powered document creation.
+ i] Automated Report Generation: AI-powered document creation.
 
-Algorithmic Trading: AI predicting stock trends.
+ ii] Algorithmic Trading: AI predicting stock trends.
 
 e) Education & Research
 
-Personalized Learning: AI-powered tutors and adaptive learning platforms.
+ i] Personalized Learning: AI-powered tutors and adaptive learning platforms.
 
-Scientific Research: AI-assisted data analysis and discovery.
+ ii] Scientific Research: AI-assisted data analysis and discovery.
 
 
 #  Future of LLM Scaling
 
 a) Efficient Model Architectures
 
-Mixture of Experts (MoE): Distributes tasks across specialized smaller models to reduce training costs.
+ i]Mixture of Experts (MoE): Distributes tasks across specialized smaller models to reduce training costs.
 
-Retrieval-Augmented Generation (RAG): Enhances accuracy by integrating external knowledge.
+ ii] Retrieval-Augmented Generation (RAG): Enhances accuracy by integrating external knowledge.
 
-Federated Learning: Enables AI models to learn from decentralized data sources, improving privacy and efficiency.
+ iii] Federated Learning: Enables AI models to learn from decentralized data sources, improving privacy and efficiency.
 
 b) Distillation & Pruning
 
-Distillation: Compresses knowledge from large models into smaller, more efficient ones.
+ i] Distillation: Compresses knowledge from large models into smaller, more efficient ones.
 
-Pruning: Removes unnecessary neurons to improve performance while reducing computational demand.
+ ii] Pruning: Removes unnecessary neurons to improve performance while reducing computational demand.
 
 c) Hybrid AI Systems
 
-Combining deep learning with symbolic reasoning for more reliable decision-making.
+ i] Combining deep learning with symbolic reasoning for more reliable decision-making.
 
-Sparsity & Modular AI to enable flexible, scalable AI architectures.
+ ii] Sparsity & Modular AI to enable flexible, scalable AI architectures.
 
-Neurosymbolic AI: Blending machine learning with logic-based reasoning for better interpretability.
+ iii] Neurosymbolic AI: Blending machine learning with logic-based reasoning for better interpretability.
 
 d) Ethical and Regulatory Considerations
 
-Fairness & Bias Mitigation: Ensuring AI models are trained on diverse and representative datasets.
+ i] Fairness & Bias Mitigation: Ensuring AI models are trained on diverse and representative datasets.
 
-Transparency & Explainability: Making AI decisions more interpretable for users.
+ ii] Transparency & Explainability: Making AI decisions more interpretable for users.
 
-Regulatory Compliance: Implementing guidelines for safe and ethical AI usage.
+ iii] Regulatory Compliance: Implementing guidelines for safe and ethical AI usage.
 
 
 # Result
