@@ -75,6 +75,7 @@ a) Natural Language Processing (NLP)
 
 iii] Code Generation: GitHub Copilot, AlphaCode.
 
+
 b) Creative Content Generation
 
  i] AI-Generated Art: DALL·E, MidJourney.
@@ -82,18 +83,21 @@ b) Creative Content Generation
  ii] Music Composition: AIVA, MuseNet.
 
  iii] Video Creation: Runway ML, Synthesia.
+ 
 
 c) Healthcare & Biotech
 
  i] AI-Generated Medical Images: Enhancing MRI and CT scans.
 
  ii] Drug Discovery: AlphaFold predicting protein structures.
+ 
 
 d) Business & Finance
 
  i] Automated Report Generation: AI-powered document creation.
 
  ii] Algorithmic Trading: AI predicting stock trends.
+ 
 
 e) Education & Research
 
