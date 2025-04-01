@@ -6,8 +6,8 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Output:
-# What is Generative AI?
+
+# 1. What is Generative AI?
 
 Generative AI is a form of artificial intelligence that creates new content, such as text, images, music, and code, based on patterns learned from vast datasets. Unlike traditional AI that focuses on classification and prediction, generative AI produces original, human-like outputs by leveraging deep learning models.
 
